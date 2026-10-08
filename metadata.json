@@ -1,0 +1,6 @@
+{
+  "name": "ACADEMIA IMPACTO LIFE FITNESS",
+  "description": "Academia de alta performance em Mauá. Musculação, funcional e treino de força com acompanhamento dedicado e resultados reais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
